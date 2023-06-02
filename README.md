@@ -4,7 +4,7 @@ This is a simple, two-wheeled mobile robot that is coded and developed by **Natn
 ## Assignment Description
 There is a node which implements an action client, allowing the user to set a target (x, y) or to cancel it. This node
 also publishes the robot position and velocity as a custom message (x,y, vel_x, vel_z), by relying on the values
-published on the topic /odom. What we are asked in this assignment is to create a jupyter notebook to replace the user
+published on the topic /odom. What we are expected to do in this assignment is to create a jupyter notebook to replace the user
 interface. 
 
 ## Expected Result
