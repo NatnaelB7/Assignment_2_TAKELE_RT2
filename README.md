@@ -1,5 +1,5 @@
 # Assignment 2: Two-Wheeled Mobile Robot (Jupyter Notebook)
-This is a simple, two-wheeled mobile robot that is coded and developed by **Natnael Berhanu Takele** using the jupyter notebook.
+This is a simple, two-wheeled mobile robot that is coded and developed by **Natnael Berhanu Takele** using jupyter notebook.
 
 ## Assignment Description
 There is a node which implements an action client, allowing the user to set a target (x, y) or to cancel it. This node
